@@ -6,7 +6,7 @@ SpendBuddy--budgeting app with full developed UI for every scenario and dark and
 1
 
    -Clone the complete Project  
-   -open the cloned folder meal_flutterMobileApp and open project in code editior and run : flutter pub get  
+   -open the cloned folder spendbuddy_flutterBudgetingApp and open project in code editior and run : flutter pub get  
    -Now just run/build your app on emulator or mobile phone
 
 2
